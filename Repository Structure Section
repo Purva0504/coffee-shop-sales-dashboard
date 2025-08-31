@@ -1,0 +1,6 @@
+coffee-shop-sales-dashboard/
+├── Coffee Shop Sales raw.xlsx       # raw dataset
+├── Coffee Shop Sales.xlsx           # Excel file with dashboard
+├── Coffee_Shop_Dashboard.jpg        # dashboard screenshot
+├── Dashboard.pdf                    # exported dashboard
+└── README.md                        # project write-up
