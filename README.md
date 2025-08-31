@@ -3,6 +3,14 @@
 
 The goal was to analyze sales performance across multiple New York City coffee shop locations and create an interactive Excel dashboard that highlights key business insights.
 
+📂 Repository Structure
+coffee-shop-sales-dashboard/
+├── Coffee Shop Sales raw.xlsx       # raw dataset
+├── Coffee Shop Sales.xlsx           # Excel file with dashboard
+├── Coffee_Shop_Dashboard.jpg        # dashboard screenshot
+├── Dashboard.pdf                    # exported dashboard
+└── README.md                        # project write-up
+
 🎯 Objectives
 
 Track monthly revenue growth
